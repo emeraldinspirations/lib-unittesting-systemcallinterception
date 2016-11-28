@@ -1,0 +1,23 @@
+{
+    "name": "emeraldinspirations/lib-unittesting-systemcallinterception",
+    "description": "An abstraction layer decoupling classes and system calls",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Matthew \"Juniper\" Barlett",
+            "email": "emeraldinspirations@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories" : [
+      {
+        "packagist":false
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+            "emeraldinspirations\\library\\unitTesting\\systemCallInterception\\": "src/"
+        }
+    }
+}
