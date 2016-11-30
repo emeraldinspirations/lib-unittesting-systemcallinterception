@@ -1,4 +1,4 @@
-<?php namespace emeraldinspirations\library\ramDatabase;
+<?php
 
 use emeraldinspirations\library\unitTesting\systemCallInterception\SystemCallIntercetor;
 
