@@ -3,3 +3,5 @@
 /vendor/
 .*.swp
 /composer.lock
+/phpDoc/html/
+/phpDoc/xml/
