@@ -43,6 +43,12 @@ Currently, this class can intercept
 * class_exists
 * new [class]
 
+## Example
+
+Here is an example use-case for this class:
+* [Class](examples/example.php)
+* [Unit Test](examples/exampleTest.php)
+
 ## Documentation
 Further documentation is available thanks to [phpDocumentor2](https://www.phpdoc.org/) and [PHPDocumentor Markdown generator](https://github.com/evert/phpdoc-md):
 * [ApiIndex](phpDoc/md/ApiIndex.md)
